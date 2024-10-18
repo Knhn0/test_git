@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello World")
 	printSomething()
+	fmt.Println("123")
 }
 
 func printSomething() {
